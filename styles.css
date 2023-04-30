@@ -14,7 +14,7 @@
 .item-3{
 	background-color: green;
 }
-.flex-container{
+.holder{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
